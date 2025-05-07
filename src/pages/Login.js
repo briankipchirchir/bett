@@ -11,7 +11,7 @@ const Login = ({ setUser }) => {
     password: "123456",
     name: "John Doe",
     phone: "123-456-7890",
-    balance: 150.75,
+    balance: 150.756,
   };
 
   const [formData, setFormData] = useState({ number: "", password: "" });
