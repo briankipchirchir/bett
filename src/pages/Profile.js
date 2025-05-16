@@ -6,7 +6,7 @@ const Profile = () => {
   const user = {
     name: "KATETE CHARLES WASWA",
     phone: "+256782141376",
-    balance: 28000000,
+    balance: 15000000,
     img: "", // Replace with a valid image URL if needed
   };
 
